@@ -1,6 +1,6 @@
 import datetime
 
-from blockchain import Blockchain, Block
+from blockchain_base import Blockchain, Block
 
 my_blockchain = Blockchain()
 my_blockchain.add_block(Block(1, datetime.datetime.now(), "Transaction Data", ""))
