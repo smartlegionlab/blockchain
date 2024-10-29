@@ -2,6 +2,12 @@
 
 ---
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/blockchain)](https://github.com/smartlegionlab/blockchain/)
+![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/blockchain)
+[![GitHub](https://img.shields.io/github/license/smartlegionlab/blockchain)](https://github.com/smartlegionlab/blockchain/blob/master/LICENSE)
+
+---
+
 This project is an implementation of a blockchain in Python, 
 which includes core features such as block creation, transaction processing, and a consensus algorithm. 
 It consists of two modules: one implements the blockchain using Flask to create an API, 
